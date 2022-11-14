@@ -41,6 +41,8 @@ They eat their own dog food and they're very willing to share how they do it and
 
 I'm sure you'll also be surprised to know that they use Codespaces and Copilot as well and showed practical examples of how those work as well. 
 
+It's truly fascinating to see a company as big as GitHub discuss what they do and don't do on their own. It's even more impressive when you see how much of what they're selling to you is something they have to live with every day. I think that's an inherent joy of building a "tool" and less an "application." Unless you're building an application that your engineering teams can use every day, it's really hard for them to give an honest test when they're using it. GitHub lives in that lovely space where they are both building and using what they build and thus feel every pain point an end user might. 
+
 ---
 
 That's a first pass at it. I'm *patiently* waiting for the videos to be uploaded and available from the conference so I can watch the sessions I missed and have a second look at the sessions I was too overloaded to grock everything. 
