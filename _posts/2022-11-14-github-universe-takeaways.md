@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GitHub Universe 2022 Takeaways"
-date:   2022-11-14 11:00:00 -0700
+date:   2022-11-14 11:00:00 +0000
 categories: github conferences
 ---
 
