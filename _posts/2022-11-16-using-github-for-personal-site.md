@@ -9,4 +9,14 @@ I went on this journey the other day and I found it to be a bit more difficult t
 
 ## Create a GitHub Repository
 
+At this point, I'm going to assume that you've seen this screen 100+ times.
+
+The only thing that you'll need to do different here is make sure two things are true:
+1. The repository is public.
+2. The repository is named `GITHUB_USERNAME.github.io`
+
+![New Repository](../assets/screenshots/2022-11-16-using-github-for-personal-site/newRepository.png)
+
+Once that is setup, you have all of the bones you need.
+
 ## Setup Jekyll
