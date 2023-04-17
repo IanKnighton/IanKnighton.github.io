@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing OctoPrint on MacOS"
-date:   2023-04-18 11:00:00 +0000
+date:   2023-04-17 11:00:00 +0000
 categories:  printing
 ---
 
