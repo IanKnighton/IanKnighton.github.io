@@ -21,6 +21,7 @@ More practically, it's a slick way to manage your 3d printer remotely. It also g
   * macOS Monterey (12.6.5)
   * 3 GHz Dual-Core Intel Core I7
   * 16 GB RAM
+  * **DISABLE SLEEP** This bit me so hard.
 * Creality Ender 3 V2
   * Firmware 1.0.8
   * Completely Stock (*At the time of writing.*)
